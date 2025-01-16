@@ -1,0 +1,115 @@
+
+nav >img{
+    height: 34px;
+    margin-top: 10px;
+}
+nav div select{
+    padding: 5px 3px 5px 5px;
+    background-color: rgba(23,23,23,0.9);
+    color: white;
+    border-radius: 3px;
+    margin-top: 45px;
+    font-size: large;
+    font-weight: 300;
+}
+.txt div:nth-child(1){
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.txt div:nth-child(2){
+    font-size: 20px;
+}
+
+.txt div:nth-child(3){
+    font-size: 20px;
+}
+
+.sec1 .txt{
+    margin-top: 12px;
+}
+
+
+ input{
+    padding: 5px 15px 5px 5px;
+    background-color: rgba(23,23,23,0.9);
+    color: white;
+    border-radius: 3px;
+    margin-top: 24px;
+    font-size: large;
+    font-weight: 300;
+}
+
+
+.sec2 {
+    display: flex;
+    flex-direction: column;
+    /* color: white; */
+    text-align: center;
+    margin: 0;
+    /* padding: 27px; */
+}
+
+.sec3 .items{
+    font-size: 12px;
+}
+
+.ready{
+    text-align: center;
+}
+
+.ready-inp{
+    display: flex;
+    flex-direction: column;
+    /* width: 284px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 56px; */
+}
+
+.sec2 p:nth-child(1){
+    font-size: 30px;
+}
+
+.sec2 p:nth-child(2){
+    font-size: 20px;
+}
+
+.sec2 p:nth-child(3){
+    font-size: 20px;
+
+}
+
+.item{
+    font-size: 20px;
+}
+
+.body{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.secImg img{
+    width:253px
+}
+
+.secImg video{
+    top:85px;
+    right:80px;
+    width:186px
+}
+
+.sec3 h1{
+    font-size: 34px;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+}
+
+
+.ready{
+    font-size: 17px;
+}
